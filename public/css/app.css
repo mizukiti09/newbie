@@ -11533,6 +11533,7 @@ nav.globalMenuSp.active {
 }
 .task-body {
   padding-bottom: 10px;
+  overflow: scroll;
 }
 .task-body-header {
   min-height: 30px;
